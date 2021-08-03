@@ -5,11 +5,9 @@ publishDir = "docs"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/ptieut"
+    headline = "My blog"
+    description = "My blog's description"
     opengraph = true
-    shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
