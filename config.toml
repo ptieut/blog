@@ -1,4 +1,4 @@
-baseurl = "https://ptieut.github.io/blog/"
+baseurl = "https://ptieut.github.io/"
 title = "ptieut"
 theme = "ghostwriter"
 publishDir = "docs"
