@@ -1,6 +1,13 @@
 baseurl = "https://ptieut.github.io/blog"
 title = "ptieut"
-theme = "archie"
+theme="archie"
+copyright = "© Athul"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=3 # articles per page
 publishDir = "docs"
 [Params]
     mainSections = ["post"]
