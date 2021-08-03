@@ -2,57 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ptieut.github.io/blog/page/about/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://ptieut.github.io/blog/page/contact/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://ptieut.github.io/blog/page/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url><url>
     <loc>https://ptieut.github.io/blog/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://ptieut.github.io/blog/posts/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <loc>https://ptieut.github.io/blog/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://ptieut.github.io/blog/posts/tg-gh/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <loc>https://ptieut.github.io/blog/post/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://ptieut.github.io/blog/tags/primer/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+    <loc>https://ptieut.github.io/blog/goisforlovers/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://ptieut.github.io/blog/posts/post-1/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+    <loc>https://ptieut.github.io/blog/tags/development/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://ptieut.github.io/blog/tags/go/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://ptieut.github.io/blog/tags/golang/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://ptieut.github.io/blog/migrate-from-jekyll/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
     <loc>https://ptieut.github.io/blog/tags/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://ptieut.github.io/blog/tags/todo/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+    <loc>https://ptieut.github.io/blog/tags/templates/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://ptieut.github.io/blog/posts/post-4/</loc>
-    <lastmod>2020-03-18T12:13:35+05:30</lastmod>
-  </url><url>
-    <loc>https://ptieut.github.io/blog/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ptieut.github.io/blog/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ptieut.github.io/blog/posts/post-7/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url><url>
-    <loc>https://ptieut.github.io/blog/posts/post-5/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url><url>
-    <loc>https://ptieut.github.io/blog/posts/post-6/</loc>
-    <lastmod>2018-03-18T12:13:36+05:30</lastmod>
-  </url><url>
-    <loc>https://ptieut.github.io/blog/posts/post-3/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url><url>
-    <loc>https://ptieut.github.io/blog/tags/procrastinating/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url><url>
-    <loc>https://ptieut.github.io/blog/posts/post-2/</loc>
-    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
-  </url><url>
-    <loc>https://ptieut.github.io/blog/tags/space/</loc>
-    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
+    <loc>https://ptieut.github.io/blog/tags/themes/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url><url>
     <loc>https://ptieut.github.io/blog/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ptieut.github.io/blog/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ptieut.github.io/blog/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ptieut.github.io/blog/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ptieut.github.io/blog/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>

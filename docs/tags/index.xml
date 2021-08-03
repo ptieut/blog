@@ -6,40 +6,58 @@
     <description>Recent content in Tags on ptieut</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© Athul</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 02:01:58 +0530</lastBuildDate><atom:link href="https://ptieut.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 02:13:50 +0000</lastBuildDate><atom:link href="https://ptieut.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Primer</title>
-      <link>https://ptieut.github.io/blog/tags/primer/</link>
-      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      <title>development</title>
+      <link>https://ptieut.github.io/blog/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://ptieut.github.io/blog/tags/primer/</guid>
+      <guid>https://ptieut.github.io/blog/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>todo</title>
-      <link>https://ptieut.github.io/blog/tags/todo/</link>
-      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      <title>go</title>
+      <link>https://ptieut.github.io/blog/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://ptieut.github.io/blog/tags/todo/</guid>
+      <guid>https://ptieut.github.io/blog/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Procrastinating</title>
-      <link>https://ptieut.github.io/blog/tags/procrastinating/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
+      <title>golang</title>
+      <link>https://ptieut.github.io/blog/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://ptieut.github.io/blog/tags/procrastinating/</guid>
+      <guid>https://ptieut.github.io/blog/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Space</title>
-      <link>https://ptieut.github.io/blog/tags/space/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
+      <title>templates</title>
+      <link>https://ptieut.github.io/blog/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://ptieut.github.io/blog/tags/space/</guid>
+      <guid>https://ptieut.github.io/blog/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://ptieut.github.io/blog/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      
+      <guid>https://ptieut.github.io/blog/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://ptieut.github.io/blog/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ptieut.github.io/blog/tags/hugo/</guid>
       <description></description>
     </item>
     
