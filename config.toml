@@ -1,6 +1,6 @@
 baseurl = "https://ptieut.github.io/blog"
 title = "ptieut"
-theme = "photophobia"
+theme = "archie"
 publishDir = "docs"
 [Params]
     mainSections = ["post"]
