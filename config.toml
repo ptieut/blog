@@ -1,7 +1,7 @@
 baseurl = "https://ptieut.github.io/blog/"
 title = "ptieut"
 theme = "ghostwriter"
-
+publishDir = "docs"
 [Params]
     mainSections = ["post"]
     intro = true
