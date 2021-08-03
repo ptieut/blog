@@ -1,6 +1,6 @@
 baseurl = "https://ptieut.github.io/"
 title = "ptieut"
-theme = "ghostwriter"
+theme = "photophobia"
 publishDir = "docs"
 [Params]
     mainSections = ["post"]
